@@ -5,6 +5,8 @@ https://www.google.com/search?q=bash+get+script+location
 
 # Answer:
 https://stackoverflow.com/questions/59895/how-do-i-get-the-directory-where-a-bash-script-is-located-from-within-the-script
+
+## RealPath
 https://askubuntu.com/questions/893911/when-writing-a-bash-script-how-do-i-get-the-absolute-path-of-the-location-of-th
 
 # Works:
